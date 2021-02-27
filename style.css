@@ -1,0 +1,18 @@
+.text {
+    color: white;
+}
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 36px;
+    color: white;
+}
+.main {
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+    grid-template-rows: 100%;
+}
+.content {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    background-color:  rgb(150, 178, 206);
+}
