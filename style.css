@@ -6,6 +6,9 @@
     font-size: 36px;
     color: white;
 }
+.title:hover {
+    content: 'j̗̟̣̯̒͐̀̃ū̝̳̋n͔͎̍̎o̡͖̭̟̊͊̔̉ ̢͎͋͘6̡̢̲͍̑̀̽̚̚͜16̪͍͌͐'';
+}
 .main {
     display: grid;
     grid-template-columns: 25% 50% 25%;
