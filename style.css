@@ -1,4 +1,5 @@
 .text {
+    font-family: 'Courier New', Courier, monospace;
     color: white;
 }
 .title {
@@ -17,5 +18,14 @@
 .content {
     grid-column-start: 2;
     grid-column-end: 3;
-    background-color:  rgb(150, 178, 206);
+    background-color:rgb(150, 178, 206);
+    padding: 0px 50px 35px 50px;
+    border-radius: 5px;
+}
+.an {
+    text-align: center;
+}
+.submit {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(211, 211, 211);
 }
